@@ -1,1 +1,1 @@
-console.log("Hello, World !!")
+console.log("Hello, World !!") //prints the code in console (browser/terminal)
